@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ken-morel
-- 👀 I’m interested in python
-- 🌱 I’m currently learning pygame
+- 👀 I’m interested in python, html/css/javascript, node js
+- 🌱 I’m currently learning SySciter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
