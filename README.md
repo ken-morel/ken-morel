@@ -38,7 +38,7 @@ my level in C++ is verry low
 ## Colaborators
 
 - I am currentky working with @mbiarrambang on CabHub
-- I also work for @Sbook-Antimony
+- I also work for @Sbook-Antimony[^1]
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 
 
@@ -46,3 +46,6 @@ my level in C++ is verry low
 > If we pull together and commit ourselves, then we can push through anything.
 
 — Mona the Octocat
+
+
+[^1] View at [Sbook website](https://sbook.onrender.com)
