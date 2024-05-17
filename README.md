@@ -31,10 +31,14 @@ my level in C++ is verry low
 ## School level
 
 - [x] first school leaving certificate
-- [ ] gce
+- [-] gce
   - [x] ordinary level
   - [ ] advanced level
 
+## Colaborators
+
+- I am currentky working with @mbiarrambang on CabHub
+- I also work for @Sbook-Antimony
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 
 
