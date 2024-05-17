@@ -44,10 +44,10 @@ my level in C++ is verry low
 
 ## Math images
 
-I've been some time interested in images generated from mathe mathematical expressions like $`x%y`$ or $`x**2//y`$.
+I've been some time interested in images generated from mathe mathematical expressions like $`x mod y`$ or $`x^2/y`$.
 
 > [!NOTE]
-> Those are python expressions
+> Those are python expressions e.g `x**2//y`
 
 ---
 > If we pull together and commit ourselves, then we can push through anything.
