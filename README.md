@@ -71,6 +71,13 @@ I live and work in cameroon
 }
 ```
 
+## Math images
+
+I've been some time interested in images generated from mathe mathematical expressions like $x%y or $x**2//y.
+
+> [!NOTE]
+> Those are python expressions
+
 ---
 > If we pull together and commit ourselves, then we can push through anything.
 
@@ -80,8 +87,6 @@ I live and work in cameroon
 
 [^1]: View at [Sbook website](https://sbook.onrender.com)
 
-      > [!NOTE]
-      > The website may not be complete.
 
 
 
