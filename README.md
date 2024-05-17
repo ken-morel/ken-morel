@@ -5,6 +5,21 @@
 
 I am currently working on a project for the tic summit.
 
+
+
+## About me
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|         python|
+|     2|     javascript|
+|     3|          regex|
+|     4|            sql|
+|     5|     powershell|
+|    20|            c++|
+
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 <!---
 <a href='https://ko-fi.com/G2G4XYJU6' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
