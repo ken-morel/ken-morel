@@ -48,4 +48,4 @@ my level in C++ is verry low
 — Mona the Octocat
 
 
-[^1] View at [Sbook website](https://sbook.onrender.com)
+[^1]: View at [Sbook website](https://sbook.onrender.com)
