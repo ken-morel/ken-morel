@@ -31,7 +31,7 @@ my level in C++ is verry low
 ## School level
 
 - [x] first school leaving certificate
-- [-] gce
+- [ ] gce
   - [x] ordinary level
   - [ ] advanced level
 
