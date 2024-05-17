@@ -9,7 +9,11 @@ I am currently working on a project for the tic summit.
 
 ## About me
 
-| Rank | THING-TO-RANK |
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+
+| Rank |   Language    |
 |-----:|---------------|
 |     1|         python|
 |     2|     javascript|
@@ -17,6 +21,10 @@ I am currently working on a project for the tic summit.
 |     4|            sql|
 |     5|     powershell|
 |    20|            c++|
+
+
+
+</details>
 
 
 
