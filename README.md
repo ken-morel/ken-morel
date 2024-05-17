@@ -41,39 +41,10 @@ my level in C++ is verry low
 - I also work for @Sbook-Antimony[^1]
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 
-## Location
-
-I live and work in cameroon
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [8 ,13],
-              [8 ,2],
-              [17,2],
-              [17,13],
-              [8 ,13]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
 
 ## Math images
 
-I've been some time interested in images generated from mathe mathematical expressions like $x%y or $x**2//y.
+I've been some time interested in images generated from mathe mathematical expressions like $`x%y`$ or $`x**2//y`$.
 
 > [!NOTE]
 > Those are python expressions
@@ -125,3 +96,32 @@ solid cube_corner
 endsolid
 ```
 -->
+## Location
+
+I live and work in cameroon
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [8 ,13],
+              [8 ,2],
+              [17,2],
+              [17,13],
+              [8 ,13]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
