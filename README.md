@@ -7,10 +7,10 @@ I am currently working on a project for the tic summit.
 
 
 
-## About me
+# About me
 
-<details>
-<summary>My top Languages</summary>
+## my top languages
+
 
 
 | Rank |   Language    |
@@ -23,7 +23,9 @@ I am currently working on a project for the tic summit.
 |    20|            c++|
 
 
-
+<details>
+<summary>Notice</summary>
+my level in C++ is verry low
 </details>
 
 
