@@ -28,7 +28,12 @@ I am currently working on a project for the tic summit.
 my level in C++ is verry low
 </details>
 
+## School level
 
+- [x] first school leaving certificate
+- [ ] gce
+  - [x] ordinary level
+  - [ ] advanced level
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 
