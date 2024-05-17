@@ -58,11 +58,11 @@ I live and work in cameroon
         "type": "Polygon",
         "coordinates": [
           [
-              [-90,35],
-              [-90,30],
-              [-85,30],
-              [-85,35],
-              [-90,35]
+              [-120,35],
+              [-120,30],
+              [-115,30],
+              [-115,35],
+              [-120,35]
           ]
         ]
       }
@@ -86,7 +86,7 @@ I live and work in cameroon
 
 
 
-
+<--
 ```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
@@ -119,3 +119,4 @@ solid cube_corner
   endfacet
 endsolid
 ```
+--!>
