@@ -58,11 +58,11 @@ I live and work in cameroon
         "type": "Polygon",
         "coordinates": [
           [
-              [0,5],
-              [0,0],
-              [5,0],
-              [5,5],
-              [0,5]
+              [1,5],
+              [1,0],
+              [6,0],
+              [6,5],
+              [1,5]
           ]
         ]
       }
