@@ -20,7 +20,7 @@ I am currently working on a project for the tic summit.
 |     3|          regex|
 |     4|            sql|
 |     5|     powershell|
-|    20|            c++|
+|    20|        ~~c++~~|
 
 
 <details>
