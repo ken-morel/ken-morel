@@ -28,7 +28,7 @@
             <animateTransform
                 attributeName="transform"
                 begin="1s"
-                id="t2"
+                
                 dur="1s"
                 type="rotate"
                 from="0 200 250"
@@ -40,7 +40,7 @@
                 path="M50,-200 L256,150"
                 dur="1s"
                 begin="2s"
-                id="m3"
+                
                 fill="freeze"
             />
 
@@ -48,7 +48,7 @@
             <animateTransform
                 attributeName="transform"
                 begin="5s"
-                id="t2"
+                
                 dur="1s"
                 type="rotate"
                 from="153 200 250"
@@ -60,7 +60,7 @@
                 path="M256,150 L0,0"
                 dur="1s"
                 begin="5s"
-                id="m3"
+                
                 fill="freeze"
             />
         </line>
@@ -68,12 +68,12 @@
             x1="350"
             x2="512"
             y1="200"
-            y2="512"
+            y2="513"
         >
             <animateTransform
                 attributeName="transform"
                 begin="0s"
-                id="t2"
+                
                 dur="1s"
                 type="rotate"
                 from="153 200 250"
@@ -88,13 +88,13 @@
                 path="M0,0 L50,-200"
                 dur="1s"
                 begin="9s"
-                id="l2m2"
+                
                 fill="freeze"
             />
             <animateTransform
                 attributeName="transform"
                 begin="10s"
-                id="t2"
+                
                 dur="1s"
                 type="rotate"
                 from="0 200 250"
@@ -103,10 +103,10 @@
                 fill="freeze"
             />
             <animateMotion
-                path="M50,-200 L556,150"
+                path="M50,-200 L600,150"
                 dur="1s"
                 begin="12s"
-                id="m3"
+                
                 fill="freeze"
             />
         </line>
