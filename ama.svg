@@ -77,7 +77,7 @@
                 dur="1s"
                 type="rotate"
                 from="0 200 250"
-                to="153 200 250"
+                to="206 200 250"
                 repeatCount="1"
                 fill="freeze"
             />
