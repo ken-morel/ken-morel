@@ -54,7 +54,7 @@
                 attributeName="transform"
                 begin="0s"
                 id="t2"
-                dur="1s"
+                dur="3s"
                 type="rotate"
                 from="0 350 350"
                 to="207 350 350"
