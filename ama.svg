@@ -47,12 +47,12 @@
 
             <animateTransform
                 attributeName="transform"
-                begin="9s"
+                begin="5s"
                 id="t2"
                 dur="1s"
                 type="rotate"
-                from="0 350 350"
-                to="207 350 350"
+                from="153 200 250"
+                to="0 200 250"
                 repeatCount="1"
                 fill="freeze"
             />
@@ -69,8 +69,8 @@
                 id="t2"
                 dur="1s"
                 type="rotate"
-                from="0 350 350"
-                to="207 350 350"
+                from="153 200 250"
+                to="0 200 250"
                 repeatCount="1"
                 fill="freeze"
             />
