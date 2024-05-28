@@ -47,7 +47,7 @@
 
             <animateTransform
                 attributeName="transform"
-                begin="0s"
+                begin="9s"
                 id="t2"
                 dur="1s"
                 type="rotate"
@@ -80,13 +80,13 @@
             <animateMotion
                 path="M0,0 L50,-200"
                 dur="1s"
-                begin="0s"
-                id="m2"
+                begin="9s"
+                id="l2m2"
                 fill="freeze"
             />
             <animateTransform
                 attributeName="transform"
-                begin="1s"
+                begin="10s"
                 id="t2"
                 dur="1s"
                 type="rotate"
@@ -98,7 +98,7 @@
             <animateMotion
                 path="M50,-200 L256,150"
                 dur="1s"
-                begin="2s"
+                begin="12s"
                 id="m3"
                 fill="freeze"
             />
