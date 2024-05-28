@@ -1,6 +1,8 @@
 ![My logo](ama.svg)
 
 
+![views](https://ken-morel.vercel.app/counter/github/svg)
+
 - 👋 Hi, I’m @ken-morel
 - 👀 I’m interested in python, html/css, javascript and c++
 - 💞️ I’m looking to collaborate on pyoload
