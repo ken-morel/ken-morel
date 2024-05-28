@@ -52,8 +52,15 @@
                 dur="1s"
                 type="rotate"
                 from="153 200 250"
-                to="0 200 250"
+                to="360 200 250"
                 repeatCount="1"
+                fill="freeze"
+            />
+            <animateMotion
+                path="M256,150 L0,0"
+                dur="1s"
+                begin="5s"
+                id="m3"
                 fill="freeze"
             />
         </line>
@@ -96,7 +103,7 @@
                 fill="freeze"
             />
             <animateMotion
-                path="M50,-200 L256,150"
+                path="M50,-200 L556,150"
                 dur="1s"
                 begin="12s"
                 id="m3"
