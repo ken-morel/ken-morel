@@ -85,13 +85,13 @@
                 path="M0,0 L150,150"
                 dur="1s"
                 begin="0s"
-                
+
                 fill="freeze"
             />
 
 
             <animateMotion
-                path="M150,150 L50,-200"
+                path="M150,150 L300,-200"
                 dur="1s"
                 begin="9s"
                 
@@ -103,13 +103,13 @@
                 
                 dur="1s"
                 type="rotate"
-                from="0 200 250"
-                to="153 200 250"
+                from="0 150 200"
+                to="153 150 200"
                 repeatCount="1"
                 fill="freeze"
             />
             <animateMotion
-                path="M50,-200 L600,150"
+                path="M300,-200 L600,150"
                 dur="1s"
                 begin="12s"
                 
