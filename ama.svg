@@ -103,13 +103,13 @@
                 
                 dur="1s"
                 type="rotate"
-                from="0 150 200"
-                to="153 150 200"
+                from="0 450 200"
+                to="153 450 200"
                 repeatCount="1"
                 fill="freeze"
             />
             <animateMotion
-                path="M300,-200 L600,150"
+                path="M300,-200 L700,150"
                 dur="1s"
                 begin="12s"
                 
