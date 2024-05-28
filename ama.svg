@@ -1,4 +1,4 @@
-<svg width="700" height="700">
+<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
     <defs>
         <linearGradient id="grad" x1="50%" x2="50%" y1="0%" y2="100%">
             <stop offset="0%" stop-color="#041" />
@@ -52,12 +52,12 @@
         >
             <animateTransform
                 attributeName="transform"
-                begin="1s"
+                begin="0s"
                 id="t2"
                 dur="1s"
                 type="rotate"
-                from="0 200 250"
-                to="153 200 250"
+                from="0 350 350"
+                to="207 350 350"
                 repeatCount="1"
                 fill="freeze"
             />

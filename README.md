@@ -1,3 +1,6 @@
+![My logo](ama.svg)
+
+
 - 👋 Hi, I’m @ken-morel
 - 👀 I’m interested in python, html/css, javascript and c++
 - 💞️ I’m looking to collaborate on pyoload
