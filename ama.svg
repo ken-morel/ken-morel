@@ -93,25 +93,25 @@
             <animateMotion
                 path="M150,150 L300,-200"
                 dur="1s"
-                begin="9s"
+                begin="5s"
                 
                 fill="freeze"
             />
             <animateTransform
                 attributeName="transform"
-                begin="10s"
+                begin="6s"
                 
                 dur="1s"
                 type="rotate"
-                from="0 450 200"
-                to="153 450 200"
+                from="206 202 250"
+                to  ="0 202 250"
                 repeatCount="1"
                 fill="freeze"
             />
             <animateMotion
-                path="M300,-200 L700,150"
+                path="M300,-200 L0,0"
                 dur="1s"
-                begin="12s"
+                begin="7s"
                 
                 fill="freeze"
             />
