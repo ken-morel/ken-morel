@@ -1,6 +1,7 @@
 ![My logo](ama.svg)
 [<img src="https://stackoverflow.com/users/flair/22719308.png" width="208" height="58" alt="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 ](https://stackoverflow.com/users/22719308/ken-morel)">
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 ![views](https://ken-morel.vercel.app/counter/github/svg)
 
 - 👋 Hi, I’m @ken-morel
@@ -43,7 +44,7 @@ my level in C++ is verry low
 
 - I am currentky working with @mbiarrambang on CabHub
 - I also work for @Sbook-Antimony[^1]
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
+
 
 
 ---
