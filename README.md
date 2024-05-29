@@ -1,5 +1,5 @@
 ![My logo](ama.svg)
-[<img src="https://stackoverflow.com/users/flair/22719308.png" width="208" height="58" alt="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+[<img src="https://stackoverflow.com/users/flair/22719308.png" width="208" height="58" alt="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 ](https://stackoverflow.com/users/22719308/ken-morel)">
 ![views](https://ken-morel.vercel.app/counter/github/svg)
 
