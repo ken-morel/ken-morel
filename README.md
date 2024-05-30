@@ -22,21 +22,7 @@ I am currently working on a project for the tic summit.
 
 ## my top languages
 
-
-
-| Rank |   Language    |
-|-----:|---------------|
-|     1|         python|
-|     2|     javascript|
-|     4|            sql|
-|     5|     powershell|
-|    20|        ~~c++~~|
-
-
-<details>
-<summary>Notice</summary>
-my level in C++ is verry low
-</details>
+I speek fluently english and french
 
 ## School level
 
@@ -52,10 +38,7 @@ my level in C++ is verry low
 
 
 
----
-> If we pull together and commit ourselves, then we can push through anything.
 
-— Mona the Octocat
 
 
 
@@ -128,3 +111,6 @@ I live and work in cameroon
   ]
 }
 ```
+---
+> If we pull together and commit ourselves, then we can push through anything.
+— Mona the Octocat :octocat:
