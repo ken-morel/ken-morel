@@ -28,7 +28,7 @@
             <animateTransform
                 attributeName="transform"
                 begin="1s"
-                id="t2"
+                
                 dur="1s"
                 type="rotate"
                 from="0 200 250"
@@ -40,7 +40,27 @@
                 path="M50,-200 L256,150"
                 dur="1s"
                 begin="2s"
-                id="m3"
+                
+                fill="freeze"
+            />
+
+
+            <animateTransform
+                attributeName="transform"
+                begin="5s"
+                
+                dur="1s"
+                type="rotate"
+                from="153 200 250"
+                to="360 200 250"
+                repeatCount="1"
+                fill="freeze"
+            />
+            <animateMotion
+                path="M256,150 L0,0"
+                dur="1s"
+                begin="5s"
+                
                 fill="freeze"
             />
         </line>
@@ -48,17 +68,51 @@
             x1="350"
             x2="512"
             y1="200"
-            y2="512"
+            y2="513"
         >
             <animateTransform
                 attributeName="transform"
                 begin="0s"
-                id="t2"
-                dur="3s"
+                
+                dur="1s"
                 type="rotate"
-                from="0 350 350"
-                to="207 350 350"
+                from="0 200 250"
+                to="206 200 250"
                 repeatCount="1"
+                fill="freeze"
+            />
+            <animateMotion
+                path="M0,0 L150,150"
+                dur="1s"
+                begin="0s"
+
+                fill="freeze"
+            />
+
+
+            <animateMotion
+                path="M150,150 L300,-200"
+                dur="1s"
+                begin="5s"
+                
+                fill="freeze"
+            />
+            <animateTransform
+                attributeName="transform"
+                begin="6s"
+                
+                dur="1s"
+                type="rotate"
+                from="206 202 250"
+                to  ="0 202 250"
+                repeatCount="1"
+                fill="freeze"
+            />
+            <animateMotion
+                path="M300,-200 L0,0"
+                dur="1s"
+                begin="7s"
+                
                 fill="freeze"
             />
         </line>
