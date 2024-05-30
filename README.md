@@ -4,9 +4,9 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 
 
-[![github stats](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/ken-morel)
+[![github stats](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)](https://github.com/ken-morel)
 
-[![github stats](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=compact)](https://github.com/ken-morel)
+[![github stats](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=compact&theme=radical)](https://github.com/ken-morel)
 ![views](https://ken-morel.vercel.app/counter/github/svg)
 
 - 👋 Hi, I’m @ken-morel
