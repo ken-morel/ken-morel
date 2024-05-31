@@ -24,6 +24,9 @@ I am currently working on a project for the tic summit.
 
 I speek fluently english and french
 
+## gists
+[![Gist Card](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014)
+
 ## School level
 
 - [x] first school leaving certificate
