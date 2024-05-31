@@ -27,9 +27,9 @@ I speek fluently english and french
 ## gists
 [![Gist Card](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014&theme=nord&bg_color=00114455&hide_border=true&border_radius=20)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014)
 
-## repos
+## repos pleasing contributions
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=ken-morel-stats&theme=nord&bg_color=22004455&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=nord&bg_color=55004455&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 ## School level
 
