@@ -6,7 +6,7 @@
 
 [![github stats](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nord&bg_color=00114455&hide_border=true&border_radius=20)](https://github.com/ken-morel)
 
-[![github stats](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=compact&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&layout=donut)](https://github.com/ken-morel)
+[![github stats](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=compact&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&layout=pie)](https://github.com/ken-morel)
 ![views](https://ken-morel.vercel.app/counter/github/svg)
 
 - 👋 Hi, I’m @ken-morel
