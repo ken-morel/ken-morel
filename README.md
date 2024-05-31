@@ -1,25 +1,5 @@
 ![My logo](ama.svg)
-<!--
-[![](https://stackoverflow.com/users/flair/22719308.png?theme=dark#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
-[![](https://stackoverflow.com/users/flair/22719308.png?theme=light#gh-light-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-light-mode-only)
--->
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 
-
-[![github stats-Dark](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
-[![github stats-Light](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=vue&bg_color=aabbff33&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
-
-[![github stats-Dark](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
-[![github stats-Light](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=view&bg_color=aaffbb33&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
-<!--
-[![WakaTime stats-Dark](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/8508f973-313d-4618-99a9-a023d1e576f2.svg#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
-[![WakaTime stats-Light](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/193f6932-c11c-41db-b6ad-7d0bc38f3f70.svg#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
--->
-<!--
-![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
--->
-
-[![](https://visitcount.itsvg.in/api?id=ken-morel&icon=0&color=0)](https://visitcount.itsvg.in)
 - 👋 Hi, I’m @ken-morel
 - 👀 I’m interested in python, html/css, javascript and c++
 - 💞️ I’m looking to collaborate on pyoload
@@ -57,13 +37,32 @@ I speek fluently english and french
 - I also work for @Sbook-Antimony[^1]
 
 
+<!--
+[![](https://stackoverflow.com/users/flair/22719308.png?theme=dark#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
+[![](https://stackoverflow.com/users/flair/22719308.png?theme=light#gh-light-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-light-mode-only)
+-->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 
+
+[![github stats-Dark](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
+[![github stats-Light](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=vue&bg_color=aabbff33&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
+
+[![github stats-Dark](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
+[![github stats-Light](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=view&bg_color=aaffbb33&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
+<!--
+[![WakaTime stats-Dark](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/8508f973-313d-4618-99a9-a023d1e576f2.svg#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
+[![WakaTime stats-Light](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/193f6932-c11c-41db-b6ad-7d0bc38f3f70.svg#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
+-->
+<!--
+![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
+-->
+
+![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
 
 
 
 
 [^1]: View at [Sbook website](https://sbook.up.railway.app)
-
 
 
 
