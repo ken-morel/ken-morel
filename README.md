@@ -1,4 +1,4 @@
-![My logo](ama.svg)
+7![My logo](ama.svg)
 [<img src="https://stackoverflow.com/users/flair/22719308.png" width="208" height="58" alt="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 ](https://stackoverflow.com/users/22719308/ken-morel)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
@@ -36,7 +36,8 @@ I speek fluently english and french
 
 ## repos pleasing contributions
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=view&bg_color=ffaaee55&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=view&bg_color=ffaaee55&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=view&bg_color=ffaaee55&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## School level
 
