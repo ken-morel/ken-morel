@@ -21,13 +21,13 @@
             <animateMotion
                 path="M0,0 L50,-200"
                 dur="1s"
-                begin="0s"
+                begin="5s"
                 id="m2"
                 fill="freeze"
             />
             <animateTransform
                 attributeName="transform"
-                begin="1s"
+                begin="6s"
                 
                 dur="1s"
                 type="rotate"
@@ -39,7 +39,7 @@
             <animateMotion
                 path="M50,-200 L256,150"
                 dur="1s"
-                begin="2s"
+                begin="7s"
                 
                 fill="freeze"
             />
@@ -47,7 +47,7 @@
 
             <animateTransform
                 attributeName="transform"
-                begin="5s"
+                begin="10s"
                 
                 dur="1s"
                 type="rotate"
@@ -59,7 +59,7 @@
             <animateMotion
                 path="M256,150 L0,0"
                 dur="1s"
-                begin="5s"
+                begin="10s"
                 
                 fill="freeze"
             />
@@ -72,7 +72,7 @@
         >
             <animateTransform
                 attributeName="transform"
-                begin="0s"
+                begin="5s"
                 
                 dur="1s"
                 type="rotate"
@@ -84,7 +84,7 @@
             <animateMotion
                 path="M0,0 L150,150"
                 dur="1s"
-                begin="0s"
+                begin="5s"
 
                 fill="freeze"
             />
@@ -93,13 +93,13 @@
             <animateMotion
                 path="M150,150 L300,-200"
                 dur="1s"
-                begin="5s"
+                begin="10s"
                 
                 fill="freeze"
             />
             <animateTransform
                 attributeName="transform"
-                begin="6s"
+                begin="11s"
                 
                 dur="1s"
                 type="rotate"
@@ -111,7 +111,7 @@
             <animateMotion
                 path="M300,-200 L0,0"
                 dur="1s"
-                begin="6s"
+                begin="11s"
                 
                 fill="freeze"
             />
