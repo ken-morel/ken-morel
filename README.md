@@ -1,11 +1,9 @@
 ![My logo](ama.svg)
 
-- 👋 Hi, I’m @ken-morel
-- 👀 I’m interested in python, html/css, javascript and c++
-- 💞️ I’m looking to collaborate on pyoload
-- 📫 How to reach me at engonken8@gmail.com
+Hi I am @ken-morel a 16 year old pythonista looking for collaborators, prices and project.
 
-I am currently working on a project for the tic summit.
+I am currently working on a project for the `TIC (Technology Innovation Challenge)` summit Cameroon.
+I live and work in Yaounde.
 
 
 
@@ -14,6 +12,10 @@ I am currently working on a project for the tic summit.
 ## my top languages
 
 I speek fluently english and french
+
+## tools
+
+
 
 ## gists
 [![Gist Card-Dark](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014#gh-dark-mode-only)
