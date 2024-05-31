@@ -5,10 +5,10 @@
 
 
 [![github stats-Dark](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
-[![github stats-Light](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=vue&bg_color=aabbff55&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
+[![github stats-Light](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=vue&bg_color=aabbff33&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
 
 [![github stats-Dark](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
-[![github stats-Light](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=view&bg_color=aaffbb55&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
+[![github stats-Light](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=view&bg_color=aaffbb33&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
 <!--
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ken-morel)](https://github.com/ken-morel)
 -->
@@ -32,12 +32,12 @@ I speek fluently english and french
 
 ## gists
 [![Gist Card-Dark](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014#gh-dark-mode-only)
-[![Gist Card-Light](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014&theme=view&bg_color=aabbff55&hide_border=true&border_radius=20#gh-light-mode-only)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014#gh-light-mode-only)
+[![Gist Card-Light](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014&theme=view&bg_color=aabbff33&hide_border=true&border_radius=20#gh-light-mode-only)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014#gh-light-mode-only)
 
 ## repos pleasing contributions
 
-[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=view&bg_color=ffaaee55&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=view&bg_color=ffaaee55&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=view&bg_color=00554455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=view&bg_color=ffaaee33&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## School level
 
