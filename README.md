@@ -12,8 +12,7 @@
 <!--
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ken-morel)](https://github.com/ken-morel)
 -->
-![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views#gh-dark-theme-only)
-![](https://komarev.com/ghpvc/?username=ken-morel&color=ffccaa&style=flat&label=views#gh-light-theme-only)
+![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views&base=-5)
 - 👋 Hi, I’m @ken-morel
 - 👀 I’m interested in python, html/css, javascript and c++
 - 💞️ I’m looking to collaborate on pyoload
