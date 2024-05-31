@@ -1,6 +1,6 @@
 ![My logo](ama.svg)
-[![](https://stackoverflow.com/users/flair/22719308.png?theme=dark#gh-theme-dark-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
-[![](https://stackoverflow.com/users/flair/22719308.png?theme=light#gh-theme-light-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-light-mode-only)
+[![](https://stackoverflow.com/users/flair/22719308.png?theme=dark#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
+[![](https://stackoverflow.com/users/flair/22719308.png?theme=light#gh-light-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-light-mode-only)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 
@@ -11,7 +11,8 @@
 [![github stats-Dark](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
 [![github stats-Light](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=view&bg_color=aaffbb33&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ken-morel)](https://github.com/ken-morel)
+[![WakaTime stats-Dark](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/8508f973-313d-4618-99a9-a023d1e576f2.svg#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
+[![WakaTime stats-Light](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/193f6932-c11c-41db-b6ad-7d0bc38f3f70.svg#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
 
 ![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
 - 👋 Hi, I’m @ken-morel
