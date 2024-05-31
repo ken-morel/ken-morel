@@ -22,46 +22,52 @@
                 path="M0,0 L50,-200"
                 dur="1s"
                 begin="0s"
-                id="m2"
+                id="l1m1"
                 fill="freeze"
+                repeatDur="15s"
             />
             <animateTransform
                 attributeName="transform"
-                begin="1s"
-                
+                begin="l1m1.end"
+                id="l1t1"
                 dur="1s"
                 type="rotate"
                 from="0 200 250"
                 to="153 200 250"
                 repeatCount="1"
                 fill="freeze"
+                repeatDur="15s"
             />
             <animateMotion
                 path="M50,-200 L256,150"
                 dur="1s"
-                begin="2s"
-                
+                begin="l1t1.end"
+                id="l1m2"
                 fill="freeze"
+                
+                repeatDur="15s"
             />
 
 
             <animateTransform
                 attributeName="transform"
-                begin="5s"
-                
+                begin="l1m2.end"
+                id="b-l1m2"
                 dur="1s"
                 type="rotate"
                 from="153 200 250"
                 to="360 200 250"
                 repeatCount="1"
                 fill="freeze"
+                repeatDur="15s"
             />
             <animateMotion
                 path="M256,150 L0,0"
                 dur="1s"
-                begin="5s"
+                begin="b-l1m2.end"
                 
                 fill="freeze"
+                repeatDur="15s"
             />
         </line>
         <line
@@ -73,33 +79,36 @@
             <animateTransform
                 attributeName="transform"
                 begin="0s"
-                
+                id="l2t1"
                 dur="1s"
                 type="rotate"
                 from="0 200 250"
                 to="206 200 250"
                 repeatCount="1"
                 fill="freeze"
+                repeatDur="15s"
             />
             <animateMotion
                 path="M0,0 L150,150"
                 dur="1s"
                 begin="0s"
-
+                id="l2m1"
                 fill="freeze"
+                repeatDur="15s"
             />
 
 
             <animateMotion
                 path="M150,150 L300,-200"
                 dur="1s"
-                begin="5s"
-                
+                begin="l2m1.end"
+                id="b-l2m2"
                 fill="freeze"
+                repeatDur="15s"
             />
             <animateTransform
                 attributeName="transform"
-                begin="6s"
+                begin="b-l2m2.end"
                 
                 dur="1s"
                 type="rotate"
@@ -107,13 +116,15 @@
                 to  ="0 202 250"
                 repeatCount="1"
                 fill="freeze"
+                repeatDur="15s"
             />
             <animateMotion
                 path="M300,-200 L0,0"
                 dur="1s"
-                begin="7s"
+                begin="b-l2m2.end"
                 
                 fill="freeze"
+                repeatDur="15s"
             />
         </line>
     </g>
