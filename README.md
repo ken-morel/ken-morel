@@ -15,7 +15,7 @@ I speek fluently english and french
 
 ## tools
 
-![](https://skillicons.dev/icons?i=python,django,flask,javascript,html,css,sass,cpp,arduino,github,jquery,gmail)
+![](https://skillicons.dev/icons?i=python,django,flask,javascript,html,css,sass,cpp,arduino,github,jquery,gmail,md,powershell)
 
 ## gists
 [![Gist Card-Dark](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014#gh-dark-mode-only)
