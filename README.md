@@ -7,8 +7,9 @@
 [![github stats](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=nord&bg_color=00114455&hide_border=true&border_radius=20)](https://github.com/ken-morel)
 
 [![github stats](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages)](https://github.com/ken-morel)
+<!--
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ken-morel)](https://github.com/ken-morel)
-
+-->
 
 ![views](https://ken-morel.vercel.app/counter/github/svg)
 
