@@ -1,4 +1,4 @@
-7![My logo](ama.svg)
+![My logo](ama.svg)
 [<img src="https://stackoverflow.com/users/flair/22719308.png" width="208" height="58" alt="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ken-morel at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 ](https://stackoverflow.com/users/22719308/ken-morel)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
@@ -12,7 +12,7 @@
 <!--
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ken-morel)](https://github.com/ken-morel)
 -->
-![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views&base=-5)
+![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
 - 👋 Hi, I’m @ken-morel
 - 👀 I’m interested in python, html/css, javascript and c++
 - 💞️ I’m looking to collaborate on pyoload
