@@ -59,6 +59,7 @@ I speek fluently english and french
 ![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
 -->
 [![](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/463e8322-63cd-4274-9f9f-7228d0cfa7f2.png)](https://wakatime.com/)
+### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
 
 
