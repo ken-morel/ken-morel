@@ -46,7 +46,7 @@ I speek fluently english and french
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
 
 
-[![github stats-Dark](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
+[![github stats-Dark](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
 [![github stats-Light](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&theme=vue&bg_color=aabbff33&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
 
 [![github stats-Dark](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
