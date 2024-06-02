@@ -1,13 +1,5 @@
 ![My logo](ama.svg)
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('kenmorel', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Donate',
-    'floating-chat.donateButton.background-color': '#323842',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+
 Hi I am @ken-morel a 15.677181258145326 year old pythonista looking for collaborators, prices and project.
 
 I am currently working on a project for the `TIC (Technology Innovation Challenge)` summit Cameroon.
