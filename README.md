@@ -1,6 +1,6 @@
 ![My logo](ama.svg)
 
-Hi I am @ken-morel a 16 year old pythonista looking for collaborators, prices and project.
+Hi I am @ken-morel a 15.677181258145326 year old pythonista looking for collaborators, prices and project.
 
 I am currently working on a project for the `TIC (Technology Innovation Challenge)` summit Cameroon.
 I live and work in Yaounde.
