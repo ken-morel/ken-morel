@@ -43,7 +43,7 @@ I speek fluently english and french
 [![](https://stackoverflow.com/users/flair/22719308.png?theme=dark#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
 [![](https://stackoverflow.com/users/flair/22719308.png?theme=light#gh-light-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-light-mode-only)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_s_logo_nolabel.png?_gl=1*1hv43wu*_ga*Mjc3NjkwNDQyLjE3MTU0NDkyOTI.*_ga_M13FZ7VQ2C*MTcxNzMzNzI5OS43LjEuMTcxNzMzNzkxMC4zMi4wLjA.)](https://ki-fi.com/ken-morel)
 
 
 [![github stats-Dark](https://ken-morel-stats.vercel.app/api?username=ken-morel&count_private=true&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
