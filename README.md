@@ -58,6 +58,8 @@ I speek fluently english and french
 <!--
 ![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
 -->
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4XYJU6)
+
 ## Coding
 
 [![](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/ecf25244-37cb-4847-abc3-6ad2a95fcd23.png)
