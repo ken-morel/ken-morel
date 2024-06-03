@@ -39,6 +39,8 @@ I speek fluently english and french
 - I also work for @Sbook-Antimony[^1]
 
 
+[![My Gravatar](https://gravatar.com/kenmorel)](https://gravatar.com/kenmorel)
+
 
 [![](https://stackoverflow.com/users/flair/22719308.png?theme=dark#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
 [![](https://stackoverflow.com/users/flair/22719308.png?theme=light#gh-light-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-light-mode-only)
