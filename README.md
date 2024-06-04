@@ -9,11 +9,11 @@ I live and work in Yaounde.
 
 # About me
 
-## my top languages
+## my top languages 🇨🇲
 
 I speek fluently english and french
 
-## tools
+## tools 📦
 
 ![](https://skillicons.dev/icons?i=python,sublime,windows,django,flask,vercel,regex,javascript,html,css,sass,cpp,arduino,github,jquery,gmail,md,powershell&perline=6)
 
@@ -21,12 +21,12 @@ I speek fluently english and french
 [![Gist Card-Dark](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014&theme=nord&bg_color=00114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014#gh-dark-mode-only)
 [![Gist Card-Light](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014&theme=view&bg_color=aabbff33&hide_border=true&border_radius=20#gh-light-mode-only)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014#gh-light-mode-only)
 
-## repos pleasing contributions
+## repos pleasing contributions 🥺
 
 [![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=nord&bg_color=55114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel/pyoload#gh-dark-mode-only)
 [![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=pyoload&theme=view&bg_color=ffaaee33&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/ken-morel/pyoload#gh-light-mode-only)
 
-## School level
+## School level 🏫
 
 - [x] first school leaving certificate
 - [ ] gce
@@ -49,13 +49,13 @@ class KenMorel(Boy):
             self.study_again()
             self.code()
 ```
-## Colaborators
+## Colaborators 🧑‍💻
 
-- I am currentky working with @mbiarrambang on CabHub
+- I am currentky working with @mbiarrambang on CabHub 🚕
 - I also work for @Sbook-Antimony[^1]
 
 
-<!-- [![My Gravatar](https://gravatar.com/kenmorel)](https://gravatar.com/kenmorel) -->
+[![My Gravatar](https://gravatar.com/kenmorel)](https://gravatar.com/kenmorel) 
 
 
 [![](https://stackoverflow.com/users/flair/22719308.png?theme=dark&cache=300#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
@@ -68,17 +68,17 @@ class KenMorel(Boy):
 
 [![github stats-Dark](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
 [![github stats-Light](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=view&bg_color=aaffbb33&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
-<!--
+[![](https://github-readme-streak-stats.herokuapp.com?user=ken-morel&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=00441155&border_radius=20)](https://github.com/ken-morel)
+
 [![WakaTime stats-Dark](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/8508f973-313d-4618-99a9-a023d1e576f2.svg#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
 [![WakaTime stats-Light](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/193f6932-c11c-41db-b6ad-7d0bc38f3f70.svg#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
--->
+
 <!--
 ![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
 -->
-[![](https://github-readme-streak-stats.herokuapp.com?user=ken-morel&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ken-morel)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ken-morel&limit=5&theme=nord&combine_all_yearly_contributions=true&border_radius=20&bg_color=aaffbb33)
+![](https://github-contributor-stats.vercel.app/api?username=ken-morel&limit=5&theme=nord&combine_all_yearly_contributions=true&border_radius=20&bg_color=22441155&border_radius=20&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=nord&no-frame=false&no-bg=true&margin-w=4)
