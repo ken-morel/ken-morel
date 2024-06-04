@@ -81,7 +81,7 @@ class KenMorel(Boy):
 ![](https://github-contributor-stats.vercel.app/api?username=ken-morel&limit=5&theme=nord&combine_all_yearly_contributions=true&border_radius=20&bg_color=22441155&border_radius=20&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 
 
