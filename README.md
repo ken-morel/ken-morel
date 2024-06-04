@@ -1,6 +1,7 @@
 ![My logo](ama.svg)
-![](https://ken-morel-api.up.railway.app/counters/github-profile/add.svg)
 Hi I am @ken-morel a 15.677181258145326 year old pythonista looking for collaborators, prices and project.
+
+![](https://ken-morel-api.up.railway.app/counters/github-profile/add.svg)
 
 I am currently working on a project for the `TIC (Technology Innovation Challenge)` summit Cameroon.
 I live and work in Yaounde.
