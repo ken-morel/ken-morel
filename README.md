@@ -32,7 +32,23 @@ I speek fluently english and french
 - [ ] gce
   - [x] ordinary level
   - [ ] advanced level
+## principles
+```python
+with Coding() as code:
+    while code.level < PERFECTION:
+        pass
+```
 
+```python
+@annotate
+class KenMorel(Boy):
+    def born(self: Self) -> None:
+        while self.is_alife():
+            self.eat()
+            self.study()
+            self.study_again()
+            self.code()
+```
 ## Colaborators
 
 - I am currentky working with @mbiarrambang on CabHub
