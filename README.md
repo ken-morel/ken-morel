@@ -69,11 +69,11 @@ class KenMorel(Boy):
 [![github stats-Dark](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=nord&bg_color=00441155&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
 [![github stats-Light](https://ken-morel-stats.vercel.app/api/top-langs/?username=ken-morel&layout=pie&theme=view&bg_color=aaffbb33&hide_border=true&border_radius=20&hide=tcl,procfile,yacc,tex,lex,roff,common%20lisp&langs_count=10&custom_title=My%20top%20languages#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
 [![](https://github-readme-streak-stats.herokuapp.com?user=ken-morel&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=00441155&border_radius=20)](https://github.com/ken-morel)
-
+<!--
 [![WakaTime stats-Dark](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/8508f973-313d-4618-99a9-a023d1e576f2.svg#gh-dark-mode-only)](https://github.com/ken-morel#gh-dark-mode-only)
 [![WakaTime stats-Light](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/193f6932-c11c-41db-b6ad-7d0bc38f3f70.svg#gh-light-mode-only)](https://github.com/ken-morel#gh-light-mode-only)
 
-<!--
+
 ![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
 -->
 
@@ -81,7 +81,7 @@ class KenMorel(Boy):
 ![](https://github-contributor-stats.vercel.app/api?username=ken-morel&limit=5&theme=nord&combine_all_yearly_contributions=true&border_radius=20&bg_color=22441155&border_radius=20&hide_border=true)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=monokai&bg_color=00554455&columns=5)
+![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=monokai&bg_color=00554455&column=5)
 
 
 
