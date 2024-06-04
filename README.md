@@ -75,7 +75,10 @@ class KenMorel(Boy):
 <!--
 ![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
 -->
-[![](https://github-readme-streak-stats.herokuapp.com?user=ken-morel&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ken-morel)
+[![](https://github-readme-streak-stats.herokuapp.com?user=ken-morel&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ken-morel)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 ## Coding
 
 [![](https://wakatime.com/share/@dbe5b692-a03c-4ea8-b663-a3e6438148b6/ecf25244-37cb-4847-abc3-6ad2a95fcd23.png)
