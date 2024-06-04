@@ -55,7 +55,7 @@ class KenMorel(Boy):
 - I also work for @Sbook-Antimony[^1]
 
 
-[<iframe src="https://gravatar.com/kenmorel"></iframe>)](https://gravatar.com/kenmorel) 
+<iframe src="https://gravatar.com/kenmorel"></iframe>
 
 
 [![](https://stackoverflow.com/users/flair/22719308.png?theme=dark&cache=300#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
