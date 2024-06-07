@@ -2,7 +2,7 @@
 Hi I am @ken-morel a 15.677181258145326 year old pythonista looking for collaborators, prices and project.
 
 [![](https://ken-morel-api.up.railway.app/counters/github-profile/add.svg?cache=0)](https://github.com/ken-morel)
-
+[![wakatime](https://wakatime.com/badge/user/dbe5b692-a03c-4ea8-b663-a3e6438148b6.svg?style=flat)](https://wakatime.com/@dbe5b692-a03c-4ea8-b663-a3e6438148b6)
 I am currently working on a project for the `TIC (Technology Innovation Challenge)` summit Cameroon.
 I live and work in Yaounde.
 
