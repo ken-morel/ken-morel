@@ -31,9 +31,10 @@ I speek fluently english and french
 
 ## Certifications 🏫
 
-<p style="font-size: 1.5em; color: 777">
+<p style="font-size: 1.5em; background-color: #7777; padding: 30px;">
     Think, I will leave this empty, for a while
 </p>
+
 ## stack overflow :fa-stackoverflof:
 
 [![](https://stackoverflow.com/users/flair/22719308.png?theme=dark&cache=300#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
