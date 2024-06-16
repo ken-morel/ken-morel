@@ -71,7 +71,6 @@ I speek fluently english and french
 
 ![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
 
-![](https://quotes-github-readme.vercel.app/api?&theme=nord)
 
 ## Coding
 
@@ -80,11 +79,9 @@ I speek fluently english and french
 ### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
 
+## quotes
 
+![](https://quotes-github-readme.vercel.app/api?&theme=nord)
 
-### 😂 Random Dev Meme
-![](https://memer-new.vercel.app)
-
----
 > If we pull together and commit ourselves, then we can push through anything.
 — Mona the Octocat :octocat:
