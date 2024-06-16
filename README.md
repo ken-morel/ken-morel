@@ -71,8 +71,6 @@ I speek fluently english and french
 
 ![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
 
-3.5589], [9.632, 3.5638], [9.6336, 3.5577], [9.637,
-
 ![](https://quotes-github-readme.vercel.app/api?&theme=nord)
 
 ## Coding
