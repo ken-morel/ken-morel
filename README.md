@@ -125,9 +125,9 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 18/08/2024 00:41:51 UTC
 <!--END_SECTION:waka-->
-### I call you number:
+<!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
 ![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
-
+-->
 > If we pull together and commit ourselves, then we can push through anything.
 — Mona the Octocat :octocat:
