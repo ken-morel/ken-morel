@@ -10,7 +10,7 @@ simple way to make any *python* utility(like requests, any else) easily usable i
 
 ## tools and languages 📦
 
-![](https://skillicons.dev/icons?i=python,go,sublime,windows,django,vercel,regex,javascript,html,svg,css,sass,cpp,arduino,github,jquery,gmail,md,powershell,docker,mysql,sqlite,postgres,linkedin,ts&perline=7)
+![](https://skillicons.dev/icons?i=python,go,sublime,windows,svelte,railway,vercel,regex,javascript,html,svg,css,sass,cpp,arduino,github,jquery,gmail,md,powershell,docker,mysql,sqlite,postgres,linkedin,ts&perline=7)
 
 ## stack overflow
 
