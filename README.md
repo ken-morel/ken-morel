@@ -45,13 +45,15 @@ I code mostly in python and javascript and a little go.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 505.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,030 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,19 +88,16 @@ Sunday                   256 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Python                   21 mins             █████████████████████░░░░   82.83 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Sublime Text Config      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shellsy                  21 mins             █████████████████████░░░░   82.83 % 
-Unknown Project          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +117,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2024 18:41:38 UTC
+ Last Updated on 23/08/2024 18:41:11 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
