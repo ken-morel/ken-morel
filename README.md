@@ -43,17 +43,15 @@ I sometimes browse stack overflow questions, and try editing or answerring what 
 I code mostly in python and javascript and a little go.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 506.5 kB Used in GitHub's Storage 
- > 
-> 🏆 1,048 Contributions in the Year 2024
+> 📦 507.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,21 +62,21 @@ I code mostly in python and javascript and a little go.
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                268 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-🌆 Daytime                536 commits         ████████░░░░░░░░░░░░░░░░░   32.70 % 
-🌃 Evening                364 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-🌙 Night                  471 commits         ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+🌞 Morning                271 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+🌆 Daytime                538 commits         ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌃 Evening                369 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+🌙 Night                  471 commits         ███████░░░░░░░░░░░░░░░░░░   28.56 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   246 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Wednesday                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Thursday                 261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Friday                   305 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Saturday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Sunday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Monday                   248 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Tuesday                  173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Wednesday                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Thursday                 261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Friday                   305 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Saturday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Sunday                   268 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 ```
 
 
@@ -88,16 +86,22 @@ Sunday                   268 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 hrs 3 mins        ██████████████████████░░░   88.68 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+INI                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             7 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+taktk                    7 hrs 26 mins       ███████████████████████░░   93.33 % 
+shellsy                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +121,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2024 18:42:16 UTC
+ Last Updated on 28/08/2024 18:42:23 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
