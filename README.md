@@ -45,7 +45,7 @@ I code mostly in python and javascript and a little go.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
@@ -53,11 +53,9 @@ I code mostly in python and javascript and a little go.
 
 > 📦 507.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,049 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -88,20 +86,19 @@ Sunday                   271 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Python                   9 hrs 4 mins        ████████████████████████░   95.98 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   3 hrs 11 mins       ████████████████████████░   96.89 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Sublime Text             9 hrs 27 mins       █████████████████████████   100.00 % 
+Sublime Text             3 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-taktk                    9 hrs 19 mins       █████████████████████████   98.53 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+taktk                    3 hrs 10 mins       ████████████████████████░   96.34 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +118,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2024 18:41:55 UTC
+ Last Updated on 05/09/2024 18:42:28 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
