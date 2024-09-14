@@ -4,13 +4,11 @@ Hi I am @ken-morel a pythonista looking for collaborators, prices and project.
 I like coding, as tells my [wakatime](https://wakatime.com/@kenmorel), but I also like being able to help
 other developers or users with self made or team made tools.
 
-Of recent I try being usefull to [glance](https://github.com/glanceapp/glance), an interresting project.
-I also work on more personal [shellsy](https://github.com/ken-morel/shellsy). Aiming it to be an easy and
-simple way to make any *python* utility(like requests, any else) easily usable in a shell-like environment.
+I currently work on taktk: trying to somplify tkinter development.
 
 ## tools and languages 📦
 
-![](https://skillicons.dev/icons?i=python,go,sublime,windows,svelte,railway,vercel,regex,javascript,html,svg,css,sass,cpp,arduino,github,jquery,gmail,md,powershell,docker,mysql,sqlite,postgres,linkedin,ts&perline=7)
+![](https://skillicons.dev/icons?i=python,sublime,windows,regex,svg,cpp,arduino,github,gmail,md,powershell&perline=3)
 
 ## stack overflow
 
