@@ -49,9 +49,7 @@ I code mostly in python and javascript and a little go.
 
 **🐱 My GitHub Data** 
 
-> 📦 522.9 kB Used in GitHub's Storage 
- > 
-> 🏆 1,092 Contributions in the Year 2024
+> 📦 523.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -115,7 +113,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2024 18:41:42 UTC
+ Last Updated on 15/09/2024 18:42:58 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
