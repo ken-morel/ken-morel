@@ -51,8 +51,6 @@ I code mostly in python and javascript and a little go.
 
 > 📦 523.0 kB Used in GitHub's Storage 
  > 
-> 🏆 1,092 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -86,16 +84,20 @@ Sunday                   278 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              ██████████░░░░░░░░░░░░░░░   40.43 % 
+Sublime Text Config      1 min               ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Python                   1 min               ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+TOML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          4 mins              ████████████████░░░░░░░░░   64.58 % 
+taktk                    2 mins              █████████░░░░░░░░░░░░░░░░   35.42 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +117,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2024 18:44:19 UTC
+ Last Updated on 18/09/2024 18:43:54 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
