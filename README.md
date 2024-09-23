@@ -41,7 +41,7 @@ I sometimes browse stack overflow questions, and try editing or answerring what 
 I code mostly in python and javascript and a little go.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -50,8 +50,6 @@ I code mostly in python and javascript and a little go.
 **🐱 My GitHub Data** 
 
 > 📦 523.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,22 +84,23 @@ Sunday                   293 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Python                   10 hrs 13 mins      ██████████████████████░░░   89.01 % 
-Sublime Text Config      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Python                   14 hrs 17 mins      ████████████████████░░░░░   80.26 % 
+reStructuredText         1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Sublime Text Config      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+TOML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-Sublime Text             11 hrs 29 mins      █████████████████████████   100.00 % 
+Sublime Text             17 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-taktk                    10 hrs 28 mins      ███████████████████████░░   91.23 % 
-Unknown Project          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-TBomb                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+taktk                    14 hrs 19 mins      ████████████████████░░░░░   80.43 % 
+tkinter-math             2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Unknown Project          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+TBomb                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  11 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +120,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2024 18:42:05 UTC
+ Last Updated on 23/09/2024 18:44:35 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
