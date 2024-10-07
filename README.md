@@ -51,6 +51,8 @@ I code mostly in python and javascript and a little go.
 
 > 📦 534.5 kB Used in GitHub's Storage 
  > 
+> 🏆 1,121 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -84,21 +86,16 @@ Sunday                   298 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Python                   3 hrs 30 mins       ████████████████████░░░░░   80.32 % 
-YAML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Sublime Text Config      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             4 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-taktk                    4 hrs 5 mins        ███████████████████████░░   93.53 % 
-Unknown Project          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +115,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2024 18:42:18 UTC
+ Last Updated on 07/10/2024 18:44:44 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
