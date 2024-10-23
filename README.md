@@ -4,7 +4,7 @@ Hi I am @ken-morel a pythonista looking for collaborators, prices and project.
 I like coding, as tells my [wakatime](https://wakatime.com/@kenmorel), but I also like being able to help
 other developers or users with self made or team made tools.
 
-I currently work on taktk: trying to somplify tkinter development.
+I currently work on taktk: trying to simplify tkinter development.
 
 ## tools and languages 📦
 
