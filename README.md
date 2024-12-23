@@ -36,7 +36,7 @@ root.mainloop()
 
 ## tools and languages 📦
 
-![](https://skillicons.dev/icons?i=python,sublime,windows,regex,svg,cpp,arduino,github,gmail,md,powershell&perline=3)
+![](https://skillicons.dev/icons?i=py,sublime,ubuntu,regex,svg,c,sass,html,js,discord,git,arduino,github,githubactions,gmail,stackoverflow,svelte,md,bash,powershell,mongodb,nodejs,npm&perline=3)
 
 ## stack overflow
 
