@@ -4,7 +4,35 @@ Hi I am @ken-morel a pythonista looking for collaborators, prices and project.
 I like coding, as tells my [wakatime](https://wakatime.com/@kenmorel), but I also like being able to help
 other developers or users with self made or team made tools.
 
-I currently work on taktk: trying to simplify tkinter development.
+I currently work on efus. Something I aim to help better markup UI components(at least better than XML) with builtin reactivity just for you to extend.
+currently looks like...
+**Page.efus**
+```julia
+using taktk.components:Window, Frame
+using tkinter.constants
+
+Window
+    Frame padding=10px pos:pack=true
+        Label  text=&label_text pos:pack=true
+        Button command=(click)  pos:pack=true
+```
+... and python code...
+```python
+from efus import Comp2nent
+
+class Page(Comp2nent):
+    label_text = "label "
+    def click(self):
+        self['label_text'] += ">"
+        self.namespace.update()
+
+component = Page.make()
+root = component.render()
+root.mainloop()
+# or Page.make().render().mainloop()
+```
+
+... Still bulky, working on it, tomorrow.
 
 ## tools and languages 📦
 
