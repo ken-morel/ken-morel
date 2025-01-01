@@ -85,7 +85,7 @@ I code mostly in python and javascript and a little go.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,183 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,23 +120,16 @@ Sunday                   285 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-JavaScript               2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.44 % 
-Sass                     1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   35.48 % 
-Svelte                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             4 hrs 42 mins       ███████████████████████░░   90.63 % 
-Chrome                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-svghai                   5 hrs 4 mins        ████████████████████████░   97.95 % 
-alx_travel_app           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-ai-hedge-fund            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -156,7 +149,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 18:43:13 UTC
+ Last Updated on 01/01/2025 18:43:33 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
