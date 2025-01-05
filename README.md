@@ -85,6 +85,8 @@ I code mostly in python and javascript and a little go.
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 2 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 50 Public Repositories 
@@ -147,7 +149,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2025 18:42:51 UTC
+ Last Updated on 05/01/2025 18:42:05 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
