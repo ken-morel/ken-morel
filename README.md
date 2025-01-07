@@ -75,17 +75,15 @@ Yeah, not good, workin' on it!
 I code mostly in python and javascript and a little go.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-545%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,16 +118,22 @@ Sunday                   287 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     50 mins             ██████████████████░░░░░░░   73.89 % 
+TOML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             1 hr 3 mins         ███████████████████████░░   92.90 % 
+Chrome                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rust_guess_game          52 mins             ███████████████████░░░░░░   77.95 % 
+sbook_core               14 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +153,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ken-morel/ken-morel/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2025 18:46:08 UTC
+ Last Updated on 07/01/2025 18:45:15 UTC
 <!--END_SECTION:waka-->
 <!--### I call you number:
 ![Visitor Count](https://profile-counter.glitch.me/{ken-morel}/count.svg)
