@@ -6,7 +6,7 @@ other friend with self made or team made tools.
 
 ## tools and languages 📦
 
-![](https://skillicons.dev/icons?i=py,sublime,ubuntu,regex,svg,c,sass,html,js,discord,git,arduino,github,githubactions,gmail,stackoverflow,svelte,md,bash,powershell,mongodb,nodejs,npm&perline=3)
+![](https://skillicons.dev/icons?i=py,sublime,ubuntu,regex,svg,c,sass,html,js,discord,git,arduino,github,githubactions,gmail,stackoverflow,svelte,md,bash,powershell,mongodb,nodejs,npm&perline=5)
 
 ## stack overflow
 
@@ -19,22 +19,19 @@ I sometimes browse stack overflow questions, and try editing or answerring what 
 [![Gist Card-Light](https://ken-morel-stats.vercel.app/api/gist?id=aa1e2aab3af5162a7fc10540d4c6b014&theme=view&bg_color=aabbff33&hide_border=true&border_radius=20#gh-light-mode-only)](https://gist.github.com/ken-morel/aa1e2aab3af5162a7fc10540d4c6b014#gh-light-mode-only)
 -->
 
-[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=gama&theme=nord&bg_color=55114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel/pyoload#gh-dark-mode-only)
-<!-- [![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=gama&theme=view&bg_color=ffaaee33&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/ken-morel/pyoload#gh-light-mode-only) -->
+<!--[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=gama&theme=nord&bg_color=55114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel/pyoload#gh-dark-mode-only)
+ [![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=gama&theme=view&bg_color=ffaaee33&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/ken-morel/pyoload#gh-light-mode-only) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=monokai&bg_color=00554455&column=3&margin-w=10&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=monokai&bg_color=00554455&column=5&margin-w=10&no-frame=true)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ken-morel&limit=5&theme=nord&combine_all_yearly_contributions=true&border_radius=20&bg_color=22441155&border_radius=20&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=ken-morel&limit=5&theme=nord&combine_all_yearly_contributions=true&bg_color=22441155&border_radius=20&hide_border=true)
 <div align="center">
     <a href="https://github.com/ken-morel">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ken-morel&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
-
-
-
 ## Coding
 I code mostly in python(toga, textual), typescript(sveltekit) and little rust(actix-web).
 
