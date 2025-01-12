@@ -1,4 +1,4 @@
-![My logo](ama.svg)
+![My logo](https://raw.githubusercontent.com/ken-morel/ken-morel/refs/main/ama.svg)
 
 Hi I am @ken-morel a pythonista looking for collaborators, prices and project.
 I like coding, as tells my [wakatime](https://wakatime.com/@kenmorel), but I also like being able to help
