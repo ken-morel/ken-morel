@@ -1,4 +1,4 @@
-![My logo](https://raw.githubusercontent.com/ken-morel/ken-morel/refs/main/ama.svg)
+![My logo](https://raw.githubusercontent.com/ken-morel/ken-morel/main/ama.svg)
 
 Hi, I'm @ken-morel, a Python enthusiast looking for collaborators, projects, and opportunities. I love coding, as shown by my [Wakatime](https://wakatime.com/@kenmorel) stats. I also enjoy helping friends with tools I've created, both individually and as part of a team.
 
