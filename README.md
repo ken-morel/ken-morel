@@ -10,7 +10,7 @@ other friend with self made or team made tools.
 
 ## stack overflow
 
-I sometimes browse stack overflow questions, and try editing or answerring what I can
+In my free time I sometimes browse stack overflow questions.
 
 [![](https://stackoverflow.com/users/flair/22719308.png?theme=dark&cache=300#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
 <!-- [![](https://stackoverflow.com/users/flair/22719308.png?theme=light&cache=300#gh-light-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-light-mode-only) -->
@@ -22,6 +22,10 @@ I sometimes browse stack overflow questions, and try editing or answerring what 
 <!--[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=gama&theme=nord&bg_color=55114455&hide_border=true&border_radius=20#gh-dark-mode-only)](https://github.com/ken-morel/pyoload#gh-dark-mode-only)
  [![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ken-morel&repo=gama&theme=view&bg_color=ffaaee33&hide_border=true&border_radius=20#gh-light-mode-only)](https://github.com/ken-morel/pyoload#gh-light-mode-only) -->
 
+
+## 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-morel&layout=compact&theme=radical)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=monokai&bg_color=00554455&column=5&margin-w=10&no-frame=true)
 
@@ -32,9 +36,14 @@ I sometimes browse stack overflow questions, and try editing or answerring what 
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=ken-morel&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
-## Coding
-I code mostly in python(toga, textual), typescript(sveltekit) and little rust(actix-web).
 
+## 📈 GitHub Stats
+![Ken Morel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-morel&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-morel)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ken_morel)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ken.morel@example.com)
 ### 🔝 Best meal
 My best meal could be...
 
