@@ -1,10 +1,10 @@
 ![My logo](https://raw.githubusercontent.com/ken-morel/ken-morel/main/ama.svg)
 
-Hi, I'm @ken-morel, a Python enthusiast looking for collaborators, projects, and opportunities. I love coding, as shown by my [Wakatime](https://wakatime.com/@kenmorel) stats. I also enjoy helping friends with tools I've created, both individually and as part of a team.
+Hi, I'm @ken-morel, the new-born julian looking for collaborators, projects, and opportunities, though that's not so easy with that scaringly awful world of science and deep-research it entails. I love coding, as shown by my [Wakatime](https://wakatime.com/@kenmorel) stats. I also enjoy helping friends with tools I've created, both individually and as part of a team.
 
 ## Tools and Languages 📦
 
-![](https://skillicons.dev/icons?i=py,sublime,ubuntu,regex,svg,c,sass,html,js,discord,git,arduino,github,githubactions,gmail,stackoverflow,svelte,md,bash,powershell,mongodb,nodejs,npm&perline=5)
+![](https://skillicons.dev/icons?i=julia,py,neovim,ubuntu,regex,svg,c,sass,html,ts,git,github,githubactions,gmail,stackoverflow,svelte,md,fish,postgres,mongodb,nodejs,npm&perline=5)
 
 ## Stack Overflow
 
