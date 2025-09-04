@@ -38,7 +38,16 @@ Welcome to my GitHub profile! I’m a versatile developer based in Yaoundé, Cam
 
 - **Languages:** Julia, Go, C, SvelteKit
 - **Interests:** Data Science, Scientific Computing, Automation, Web/UI Development
-- **Tracking:** [Hackatime](https://hackatime.com/profile/ken-morel)
+
+![](https://skillicons.dev/icons?i=julia,py,neovim,ubuntu,regex,svg,c,sass,html,ts,git,github,githubactions,gmail,stackoverflow,svelte,md,fish,postgres,mongodb,nodejs,npm&perline=5)
+
+---
+
+## 📊 Coding Tracker & Stats
+
+- **Hackatime:**  
+  [Hackatime profile](https://hackatime.com/profile/ken-morel)  
+  ![Hackatime Stats](https://hackatime.com/profile/ken-morel/badge.svg)
 
 ---
 
