@@ -1,48 +1,63 @@
-![My logo](https://raw.githubusercontent.com/ken-morel/ken-morel/main/ama.svg)
+# 👋 Hi there, I'm Ken Morel!
 
-Hi, I'm @ken-morel, the new-born julian looking for collaborators, projects, and opportunities, though that's not so easy with that scaringly awful world of science and deep-research it entails. I love coding, as shown by my [Wakatime](https://wakatime.com/@kenmorel) stats. I also enjoy helping friends with tools I've created, both individually and as part of a team.
+Welcome to my GitHub profile! I’m a versatile developer based in Yaoundé, Cameroon 🇨🇲, passionate about open-source, creative problem-solving, and learning new technologies.
 
-## Tools and Languages 📦
+---
 
-![](https://skillicons.dev/icons?i=julia,py,neovim,ubuntu,regex,svg,c,sass,html,ts,git,github,githubactions,gmail,stackoverflow,svelte,md,fish,postgres,mongodb,nodejs,npm&perline=5)
+## 🧑‍💻 About Me
 
-## Stack Overflow
+- **Location:** Yaoundé, Cameroon
+- **Languages:** Julia enthusiast, working on projects in Go & C, and sometimes SvelteKit for web UIs (including Wails apps)
+- **Aspirations:** Learning data science to unlock new use cases for Julia
+- **Email:** engonken8@gmail.com
+- **Coding Tracker:** [Hackatime profile](https://hackatime.com/profile/ken-morel)
+- **Community:** Hack Club Slack (catch me brainstorming with other hackers!)
 
-In my free time, I often browse Stack Overflow questions.
+---
 
-[![](https://stackoverflow.com/users/flair/22719308.png?theme=dark&cache=300#gh-dark-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-dark-mode-only)
-<!-- [![](https://stackoverflow.com/users/flair/22719308.png?theme=light&cache=300#gh-light-mode-only)](https://stackoverflow.com/users/22719308/ken-morel#gh-light-mode-only) -->
+## 🚀 Featured Projects
 
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-morel&layout=compact&theme=radical)
+- [alat](https://github.com/ken-morel/alat): Streamlining workflows with automation.
+- [gama](https://github.com/ken-morel/gama): Advanced data analysis tools.
+- [Attrape.jl](https://github.com/ken-morel/Attrape.jl): High-performance Julia utilities.
+- [Efus.jl](https://github.com/ken-morel/Efus.jl): Efficient scientific computing in Julia.
+- [slicenfill](https://github.com/recordbreakersorg/slicenfill): Community-driven slicing solutions.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ken-morel&theme=monokai&bg_color=00554455&column=5&margin-w=10&no-frame=true)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ken-morel&limit=5&theme=nord&combine_all_yearly_contributions=true&bg_color=22441155&border_radius=20&hide_border=true)
-<div align="center">
-    <a href="https://github.com/ken-morel">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ken-morel&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%202025">
-    </a>
-</div>
+## 🌱 What I'm Working On
 
-## 📈 GitHub Stats
-![Ken Morel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-morel&show_icons=true&theme=radical)
+- Exploring data science and building use cases in Julia
+- Developing automation and scientific computing tools
+- Experimenting with Go, C, and SvelteKit for high-performance apps and UIs
+- Collaborating in open-source communities
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Julia, Go, C, SvelteKit
+- **Interests:** Data Science, Scientific Computing, Automation, Web/UI Development
+- **Tracking:** [Hackatime](https://hackatime.com/profile/ken-morel)
+
+---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-morel)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ken_morel)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:engonken8@gmail.com)
 
-### Fun Fact
-I can solve a Rubik's cube in under two minutes.
+- **LeetCode:** [ken-morel](https://leetcode.com/ken-morel)
+- **Discord:** kenmorel
+- **Twitter/X:** [@kenmorel8](https://twitter.com/kenmorel8)
+- **Hack Club Slack:** Hackers welcome!
+- **GitHub:** [ken-morel](https://github.com/ken-morel)
+- **Email:** engonken8@gmail.com
 
-### Joke
-Why do Python programmers prefer dark mode?
-Because light attracts bugs!
+---
 
-![](https://komarev.com/ghpvc/?username=ken-morel&color=553300&style=flat&label=views)
+## ⚡ Fun Fact
 
-> If we pull together and commit ourselves, then we can push through anything.
-— Mona the Octocat :octocat:
+I love digging deep into new programming languages, sharing discoveries with the community, and finding creative ways to automate my workflow.  
+If you’re into Julia, data science, web UIs, or open-source hacking, let’s connect!
+
+---
+
+> *This README is always evolving. Share your thoughts, or reach out—let’s build something awesome together!*
