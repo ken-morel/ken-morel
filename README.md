@@ -6,7 +6,7 @@ I also spend some time trying to write post on my [LinkedIn](https://www.linkedi
 
 ## Tools and languages
 
-[![My Skills](https://skillicons.dev/icons?perline=7&i=c,css,dart,discord,flutter,github,githubactions,gmail,go,html,linux,md,neovim,nodejs,obsidian,py,sass,stackoverflow,svelte,tailwind,ubuntu,)](https://github.com/ken-morel)
+[![My Skills](https://skillicons.dev/icons?perline=7&i=julia,c,css,dart,discord,flutter,github,githubactions,gmail,go,html,linux,md,neovim,nodejs,obsidian,py,sass,stackoverflow,svelte,tailwind,ubuntu,)](https://github.com/ken-morel)
 
 ## 🌱 What I'm Working On
 
