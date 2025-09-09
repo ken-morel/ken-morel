@@ -1,55 +1,27 @@
-# 👋 Hi there, I'm Ken Morel!
+# 👋 Mbolo! I'm `ama` .
 
-Welcome to my GitHub profile! I’m a versatile developer based in Yaoundé, Cameroon 🇨🇲, passionate about open-source, creative problem-solving, and learning new technologies.
+Welcome to my gh! I am engon, A Junior Backend developer with Go, based in Yaounde, Cameroon, passionate about open-source, creative problem-solving, learning new technologies, and Julia Programming language. I look forward in training and building skills by contributing to projects.
 
----
+I also spend some time trying to write post on my [linkedin](https://www.linkedin.com/in/ken-morel-8ba00a296)
 
-## 🧑‍💻 About Me
+## Tools and languages
 
-- **Location:** Yaoundé, Cameroon
-- **Languages:** Julia enthusiast, working on projects in Go & C, and sometimes SvelteKit for web UIs (including Wails apps)
-- **Aspirations:** Learning data science to unlock new use cases for Julia
-- **Email:** engonken8@gmail.com
-- **Coding Tracker:** [Hackatime profile](https://hackatime.com/profile/ken-morel)
-- **Community:** Hack Club Slack (catch me brainstorming with other hackers!)
-
----
-
-## 🚀 Featured Projects
-
-- [alat](https://github.com/ken-morel/alat): Streamlining workflows with automation.
-- [gama](https://github.com/ken-morel/gama): Advanced data analysis tools.
-- [Attrape.jl](https://github.com/ken-morel/Attrape.jl): High-performance Julia utilities.
-- [Efus.jl](https://github.com/ken-morel/Efus.jl): Efficient scientific computing in Julia.
-- [slicenfill](https://github.com/recordbreakersorg/slicenfill): Community-driven slicing solutions.
-
----
+[![My Skills](https://skillicons.dev/icons?perline=6&i=c,css,dart,discord,flutter,github,githubactions,gmail,go,html,linux,md,neovim,nodejs,obsidian,py,sass,stackoverflow,svelte,tailwind,ubuntu,)](https://github.com/ken-morel)
 
 ## 🌱 What I'm Working On
 
 - Exploring data science and building use cases in Julia
-- Developing automation and scientific computing tools
-- Experimenting with Go, C, and SvelteKit for high-performance apps and UIs
-- Collaborating in open-source communities
-
----
+- Experimenting with Go, C, and SvelteKit for apps and UIs
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Julia, Go, C, SvelteKit
+- **Languages:** Julia, Go, C, Svelte, typescript
 - **Interests:** Data Science, Scientific Computing, Automation, Web/UI Development
 
-![](https://skillicons.dev/icons?i=julia,py,neovim,ubuntu,regex,svg,c,sass,html,ts,git,github,githubactions,gmail,stackoverflow,svelte,md,fish,postgres,mongodb,nodejs,npm&perline=5)
-
----
-
 ## 📊 Coding Tracker & Stats
+![Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=19730&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
 
-- **Hackatime:**  
-  [Hackatime profile](https://hackatime.com/profile/ken-morel)  
-  ![Hackatime Stats](https://hackatime.com/profile/ken-morel/badge.svg)
-
----
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 ## 📫 Connect with Me
 
