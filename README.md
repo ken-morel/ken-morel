@@ -68,7 +68,7 @@ int main() {
   gm_init(600, 400, "Hello Gama!");
   gm_background(GM_DARKSLATEGRAY);
 
-  do () {
+  do  {
     gm_draw_rectangle(0, 0, 0.5, 0.3, GM_RED);
     gm_draw_text(0, 0, "Hello, World!", "", 0.1, GM_WHITE);
   } while(gm_yield());
@@ -86,7 +86,7 @@ int main() {
 
 ## Contact & links
 - GitHub: [ken-morel](https://github.com/ken-morel)  
-- LinkedIn: [Ken Morel](https://www.linkedin.com/in/ken-morel-8ba00a296)  
+- LinkedIn: [Ken Morel](https://www.linkedin.com/in/engon-morel-8ba00a296)  
 - X (Twitter): [@kenmorel8](https://twitter.com/kenmorel8)  
 - Discord: kenmorel  
 - Email: engonken8@gmail.com  
