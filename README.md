@@ -23,15 +23,6 @@ Location: Yaoundé, Cameroon — open to collaborations and mentoring conversati
 ---
 
 ## Top skills & tools
-(ordered by priority)
-1. Julia
-2. Helix (editor)
-3. C
-4. TypeScript
-5. V
-6. fish
-7. WebAssembly
-
 Other tools I use: fish, Zig, TCC, GitHub Actions, SvelteKit
 
 [![My Skills](https://skillicons.dev/icons?perline=7&i=arch,hx,julia,v,c,fish,wasm,typescript,svelte,github)](https://github.com/ken-morel)
