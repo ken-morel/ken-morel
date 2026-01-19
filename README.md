@@ -8,7 +8,7 @@
 
 ---
 
-Hi — I’m Ken. I build small, readable systems and developer tools that teach and ship. I love Julia for data work, V and C for systems-level control, and WebAssembly + TypeScript for making native things run in the browser. When I’m not coding I’m exploring new editors (Helix is my daily driver), designing tiny APIs, or iterating on game engine ideas.
+Hi — I’m Ken. I build small, developer tools that teach and ship. I love Julia for data work(still learning though), V and C for systems-level control, and WebAssembly + TypeScript for making native things run in the browser or simply building some little svelte project. When I’m not coding or helix, or sleeping, I’m eating, or perhaps watching some anime, designing tiny APIs, or iterating on some game engine idea.
 
 Location: Yaoundé, Cameroon — open to collaborations and mentoring conversations.
 
@@ -18,29 +18,31 @@ Location: Yaoundé, Cameroon — open to collaborations and mentoring conversati
 - Lead development on **Gama**, a lightweight educational C game engine (native + WASM).
 - Build reactive UI tooling and templating in Julia (Efus.jl, Ionic.jl).
 - Experiment with systems tooling in V, C, and Rust-backed helpers (like rrr).
-- Study Data Science in university and apply Julia to real examples.
+- Study Data Science in part time, HND level 1 in university.
 
 ---
 
 ## Top skills & tools
 (ordered by priority)
 1. Julia
-2. V
+2. Helix (editor)
 3. C
-4. Helix (editor)
-5. WebAssembly
-6. TypeScript
+4. TypeScript
+5. V
+6. fish
+7. WebAssembly
 
-Other tools I use: Zig, TCC, GitHub Actions, SvelteKit
+Other tools I use: fish, Zig, TCC, GitHub Actions, SvelteKit
 
-[![My Skills](https://skillicons.dev/icons?perline=7&i=julia,v,c,helix,wasm,typescript,github)](https://github.com/ken-morel)
+[![My Skills](https://skillicons.dev/icons?perline=7&i=arch,hx,julia,v,c,fish,wasm,typescript,svelte,github)](https://github.com/ken-morel)
 
 ---
 
 ## Featured projects
 
-- Gama — A simple C game engine  
+- Gama — A simple C game engine (C, V, TS) 
   https://github.com/ken-morel/gama  
+  https://gama.rbs.cm  
   Lightweight, educational engine focused on a small C API, stack-first memory, immediate-mode 2D rendering, and easy WebAssembly builds.
 
 - Efus.jl — Declarative UI templating for Julia  
@@ -75,10 +77,10 @@ int main() {
   gm_init(600, 400, "Hello Gama!");
   gm_background(GM_DARKSLATEGRAY);
 
-  while (gm_yield()) {
+  do () {
     gm_draw_rectangle(0, 0, 0.5, 0.3, GM_RED);
-    gm_draw_text(0, 0, "Hello, World!", "default-ui", 0.1, GM_WHITE);
-  }
+    gm_draw_text(0, 0, "Hello, World!", "", 0.1, GM_WHITE);
+  } while(gm_yield());
   return 0;
 }
 ```
@@ -86,9 +88,8 @@ int main() {
 ---
 
 ## How I like to collaborate
-- Small focused PRs or issues with a clear reproduction are easiest for me to review.
-- I enjoy mentoring students and pairing on projects that teach a new concept.
-- Open to contributions on Gama, Efus.jl, Ionic.jl — start with an issue or a small enhancement.
+- I enjoy working with students and pairing on projects that teach a new concept.
+- Open to contributions on Gama, Efus.jl, Ionic.jl, and others — start with an issue or a small enhancement.
 
 ---
 
@@ -97,15 +98,12 @@ int main() {
 - LinkedIn: [Ken Morel](https://www.linkedin.com/in/ken-morel-8ba00a296)  
 - X (Twitter): [@kenmorel8](https://twitter.com/kenmorel8)  
 - Discord: kenmorel  
-- Email: engonken8@gmail.com
+- Email: engonken8@gmail.com  
+  engon@rbs.cm
 
 ---
 
 ## A few more things
-- Tone: I keep things a mix of casual and professional — clear, friendly, and focused on learning.
+- Tone: I try to keep things a mix of casual and professional — clear, friendly, and focused on learning.
 - Education: First-year Software Engineering student (Level 1) — I apply coursework directly into small OSS projects.
-- Fun fact: I’m a big fan of exploring new programming languages and editing ergonomics — I’ll often prototype a tiny language or macro to make my workflow simpler.
-
----
-
-If you want this README tweaked (shorter, more formal, bilingual, or with custom badges/images), tell me what to change and I’ll update it. I can also generate a version tailored for recruiters, students, or collaborators.
+- Fun fact: I’m a big fan of writing little fish scripts to help me with common tasks.
