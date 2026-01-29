@@ -75,6 +75,13 @@ int main() {
   return 0;
 }
 ```
+---
+## Some readme stats of course
+
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ken-morel&show_icons=true&locale=en&layout=compact)
+
+![gh stats](https://github-readme-stats.vercel.app/api?username=ken-morel&show_icons=true&locale=en)
 
 ---
 
