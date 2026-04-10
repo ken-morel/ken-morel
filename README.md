@@ -1,107 +1,43 @@
-# 👋 Mbolo — I'm Ama (Ken Morel)
+# Hi, I'm Ken Morel — Engon Ken Morel
 
-> Junior System Developer • Data Science student  
-> First-year Software Engineering student | Building systems, UIs, and game tooling
+**he/him** • Junior System Developer • First-year Software Engineering (HND) student in Yaoundé, Cameroon
 
-[![Current Project: Gama](https://img.shields.io/badge/project-Gama-blue?logo=github)](https://github.com/ken-morel/gama)
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)]
-
----
-
-Hi — I’m Ken. I build small, developer tools that teach and ship. I love Julia for data work(still learning though), V and C for systems-level control, and WebAssembly + TypeScript for making native things run in the browser or simply building some little svelte project. When I’m not coding or helix, or sleeping, I’m eating, or perhaps watching some anime, designing tiny APIs, or iterating on some game engine idea.
-
-Location: Yaoundé, Cameroon — open to collaborations and mentoring conversations.
-
----
-
-## What I do now
-- Lead development on **Gama**, a lightweight educational C game engine (native + WASM).
-- Build reactive UI tooling and templating in Julia (Efus.jl, Ionic.jl).
-- Experiment with systems tooling in V, C, and Rust-backed helpers (like rrr).
-- Study Data Science in part time, HND level 1 in university.
-
----
-
-## Top skills & tools
-Other tools I use: fish, Zig, TCC, GitHub Actions, SvelteKit
-
-[![My Skills](https://skillicons.dev/icons?perline=7&i=arch,hx,julia,v,c,fish,wasm,typescript,svelte,github)](https://github.com/ken-morel)
-
----
-
-## Featured projects
-
-- Gama — A simple C game engine (C, V, TS) 
-  https://github.com/ken-morel/gama  
-  https://gama.rbs.cm  
-  Lightweight, educational engine focused on a small C API, stack-first memory, immediate-mode 2D rendering, and easy WebAssembly builds.
-
-- Efus.jl — Declarative UI templating for Julia  
-  https://github.com/ken-morel/Efus.jl  
-  A pug-like declarative templating macro that expands to Julian code for building UI components — great for composing Julia UIs.
-
-- Ionic.jl — Reactive primitives for Julia UIs  
-  https://github.com/ken-morel/Ionic.jl  
-  Provides subscribable values, computed values, and subscription managers used by Efus.jl to build reactive interfaces with tracing and lifecycle helpers.
-
-- rrr — Remote REPL Runner (Rust)  
-  https://github.com/ken-morel/rrr  
-  Small remote REPL runner that spawns processes and sends/receives commands via tiny shell-friendly tools — useful for automation and remote development scripts.
-
-(See my pinned repositories for runnable examples and demos.)
-
----
-
-## Quick start — try Gama
-Create and run a new Gama project:
-```bash
-gama new my_first_game
-cd my_first_game
-gama dev
-```
-
-Tiny Gama snippet:
-```c
-#include <gama.h>
-
-int main() {
-  gm_init(600, 400, "Hello Gama!");
-  gm_background(GM_DARKSLATEGRAY);
-
-  do  {
-    gm_draw_rectangle(0, 0, 0.5, 0.3, GM_RED);
-    gm_draw_text(0, 0, "Hello, World!", "", 0.1, GM_WHITE);
-  } while(gm_yield());
-  return 0;
-}
-```
----
-## Some readme stats of course
+[![Current focus: skein](https://img.shields.io/badge/current_project-skein-purple?logo=rust)](https://github.com/ken-morel/skein)  
+*(Building tools that make development simpler and more enjoyable)*
 
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=ken-morel&show_icons=true&locale=en&layout=compact)
+I'm a software engineering student who loves crafting small, practical developer tools and recently rewriting some of my previous projects in **Rust**.  
 
-![gh stats](https://github-readme-stats.vercel.app/api?username=ken-morel&show_icons=true&locale=en)
+Directly to the fun part...
+My workflow is almost entirely **TUI-based** (terminal user interface) with **kmscon** as my daily driver. I use tools like **nushell**, **helix**, **tmux** (with persistent sessions), **yazi**, **aerc**, **nchat**, and a bunch of custom scripts to stay productive even from a bare terminal or remotely, keep everything backed up with **zpaqfranz + rclone**, and even have a custom **tmux-notify** for inline replies.
 
----
+Right now I'm:
+- Leading development on **skein** (Rust) — a project for my team that handles taxi and client data to compute optimal routes.
+- Rewriting older projects in Rust (like **rrr** — my remote REPL runner, **arb-util**, and surely more in future).
+- Practising systems programming in C (I occasionally record myself coding in C and post to YouTube @amemimy for practice).
+- Occasionally dipping back into Julia for data work and UI experiments.
 
-## How I like to collaborate
-- I enjoy working with students and pairing on projects that teach a new concept.
-- Open to contributions on Gama, Efus.jl, Ionic.jl, and others — start with an issue or a small enhancement.
+I enjoy learning by building. In the past year I've switched between Python, Dart/Flutter, Go, V, C, Julia, and now mostly **Rust** + **C**. Each switch taught me something new about trade-offs in performance, safety, and developer experience. And that even though I really love Julia language... 
 
----
 
-## Contact & links
-- GitHub: [ken-morel](https://github.com/ken-morel)  
-- LinkedIn: [Ken Morel](https://www.linkedin.com/in/engon-morel-8ba00a296)  
-- X (Twitter): [@kenmorel8](https://twitter.com/kenmorel8)  
-- Discord: kenmorel  
-- Email: engonken8@gmail.com  
-  engon@rbs.cm
+## What I'm working on
 
----
+- **skein** — Rust backend for taxi routing and data management (team project).
+- **rrr** — Remote REPL Runner in Rust. Spawn processes, send commands, interact with REPLs over the network — great for automation and remote scripting, or sending commands from termux your phone to your pc.  
+  [→ github.com/ken-morel/rrr](https://github.com/ken-morel/rrr)
+- Smaller tools I built for my own workflow: **hxfm** (bulk file operations in your editor), **bakop** (versioned backups), **ttyv/endv** (media viewing in terminal/framebuffer), and a few more.
 
-## A few more things
-- Tone: I try to keep things a mix of casual and professional — clear, friendly, and focused on learning.
-- Education: First-year Software Engineering student (Level 1) — I apply coursework directly into small OSS projects.
-- Fun fact: I’m a big fan of writing little fish scripts to help me with common tasks.
+You can find most of my active projects in the pinned repositories below.
+
+
+## Let's connect
+
+- **Email**: [engonken8@gmail.com](mailto:engonken8@gmail.com) or [engon@rbs.cm](mailto:engon@rbs.cm)
+- **Website**: [engon.rbs.cm](https://engon.rbs.cm)
+- **X / Twitter**: [@kenmorel8](https://twitter.com/kenmorel8)
+- **LinkedIn**: [Ken Morel](https://www.linkedin.com/in/engon-morel-8ba00a296)
+- **Discord**: kenmorel
+- **YouTube** (occasional C coding sessions, really not good for now): [@amemimy](https://www.youtube.com/@amemimy)
+
+
+Thanks for stopping by! 🚀
